@@ -6,6 +6,7 @@
   </head>
   <body>
     <font size="15">Deskripsi Tugas</font><br>
+     <font size="10">Seluruh tugas saya beradai file scn  :</font><br>
     Tugas uas saya berada di <u>uas</u><br>
     <font size="10">Tugas array beradai pertemuan 9 :</font><br>
     Tugas kalkulator beradadi bernama Pertemuan10<br>
